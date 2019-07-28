@@ -1,0 +1,7 @@
+{
+  "name": "maoxian_web_clipper_native",
+  "description": "Native aplication of maoxian web clipper",
+  "path": "app_loader.bat",
+  "type": "stdio",
+  "allowed_extensions": [ "{7deb155c-e51d-4bbb-a904-37dec499340c}" ]
+}
