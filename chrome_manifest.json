@@ -3,5 +3,5 @@
     "description": "Native aplication of maoxian web clipper",
     "path": "app_loader.bat",
     "type": "stdio",
-    "allowed_origins": ["chrome-extension://kjahokgdcbohofgdidndeiaigkehdjdc/"]
+    "allowed_origins": ["chrome-extension://mdflfkfbipjmnlfclmlnmmlpcddnkmhd/"]
 }
